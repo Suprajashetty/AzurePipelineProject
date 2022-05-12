@@ -75,11 +75,16 @@ Open a browser and go to the url. The following page should be seen which shows 
 # Azure Pipeline
 
 Create an Azure Devops project and connect it to Azure using the following instructions:
-Create an Azure DevOps Project and Connect To Azure
 
-Create a Python python pipeline to deploy App Service using the following instructions: Create A Python-specific pipeline to deploy to App Service
+https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/python-webapp?view=azure-devops#create-an-azure-devops-project-and-connect-to-azure
 
-Execute the pipeline using the following instructions: Run the pipeline
+Create a Python python pipeline to deploy App Service using the following instructions:
+
+https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/python-webapp?view=azure-devops#create-a-python-specific-pipeline-to-deploy-to-app-service
+
+Execute the pipeline using the following instructions: 
+
+https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/python-webapp?view=azure-devops#run-the-pipeline
 
 Upon successful execution of the pipeline you should see a comparable output of the pipeline as shown in the image below:
 
