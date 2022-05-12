@@ -5,7 +5,7 @@
 # https://aka.ms/yaml
 
 trigger:
-- master
+- main
 
 # TODO: Replace the agent pool name
 pool: myagentpool
