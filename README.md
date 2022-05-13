@@ -160,6 +160,10 @@ locust -f locustfile.py
 
 ![image](https://user-images.githubusercontent.com/98746837/168077107-94e467d9-f370-41a9-93e9-239f05971ba5.png)
 
+# Status Badge
+
+[![Python application test with Github Actions](https://github.com/Suprajashetty/AzurePipelineProject/actions/workflows/pythonapp.yml/badge.svg)](https://github.com/Suprajashetty/AzurePipelineProject/actions/workflows/pythonapp.yml)
+
 # Enhancements
 
 This project can be improved by:
