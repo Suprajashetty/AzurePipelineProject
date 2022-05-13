@@ -7,9 +7,9 @@ This project demostrates Azure CI/CD pipeline to build, test, and operationalize
 
 # Project Plan
 
-create below for the project plan:
+Create below for the project plan:
 
-Trello Task Board :
+Trello Task Board link :
 
 https://trello.com/invite/b/m7Wq2VqH/6ef89351ce698a1d86ae6ade794fece8/devops
 
@@ -17,9 +17,15 @@ or
 
 https://trello.com/b/m7Wq2VqH/devops
 
-Project Plan spreadsheet in the repo:
+A link to a spreadsheet that includes the original and final project plan:
 
 https://github.com/Suprajashetty/AzurePipelineProject/blob/main/project-management-template.xlsx
+
+# Instructions
+
+# Architectural Diagram
+
+![image](https://user-images.githubusercontent.com/98746837/168204887-fccfe33d-36ea-4e06-81c6-2ec504bf9d8c.png)
 
 # Azure Subscription and account
 
@@ -154,6 +160,14 @@ locust -f locustfile.py
 
 ![image](https://user-images.githubusercontent.com/98746837/168077107-94e467d9-f370-41a9-93e9-239f05971ba5.png)
 
+# Enhancements
+
+This project can be improved by:
+
+1. Include more testing techniques like load testing to check the performance
+2. Use more build jobs such as building Docker Images, building Kubernetes namespaces and clusters
+3. Deploying the code on Kubernetes Cluster
+
 # Demo
 
-https://youtu.be/qdOr4Z8jT8M
+Yutube link : https://youtu.be/qdOr4Z8jT8M
